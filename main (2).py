@@ -1,0 +1,11 @@
+import os
+os.system("apt update")
+os.system("apt upgrade")
+os.system("apt install figlet")
+os.system("clear")
+os.system("figlet IDM LINUX")
+os.system("curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Kali/kali-xfce. sh | bash")
+os.system("./start-kali.sh")
+os.system("sudo apt install git")
+os.system("git clone https://github.com/Andromedaxs6/ANDROMEDA-IP-DoS-SCRIPT")
+os.system("vncserver")
